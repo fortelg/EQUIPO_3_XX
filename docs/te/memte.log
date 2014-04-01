@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.3)  1 APR 2014 10:53
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.3)  1 APR 2014 11:00
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -207,6 +207,8 @@ Cap\'{\i }tulo 2.
 ]
 Cap\'{\i }tulo 3.
 (./tex/cap3.tex
+File: images/imagen1.eps Graphic file (type eps)
+ <images/imagen1.eps>
 File: images/figura1.eps Graphic file (type eps)
  <images/figura1.eps> (./tables/table.tex)) [3
 
@@ -228,12 +230,12 @@ Ap\'{e}ndice B.
 
 ] (./memte.aux) ) 
 Here is how much of TeX's memory you used:
- 1761 strings out of 495062
- 21338 string characters out of 1182645
+ 1764 strings out of 495062
+ 21372 string characters out of 1182645
  75798 words of memory out of 3000000
- 4893 multiletter control sequences out of 15000+50000
+ 4895 multiletter control sequences out of 15000+50000
  13237 words of font info for 48 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  25i,8n,27p,208b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (17 pages, 14916 bytes).
+Output written on memte.dvi (17 pages, 15392 bytes).
